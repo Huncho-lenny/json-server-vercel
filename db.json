@@ -1,9 +1,95 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+    "todos": [
+      {
+        "id": 1,
+        "title": "Buy groceries",
+        "completed": false,
+        "userId": 1
+      },
+      {
+        "id": 2,
+        "title": "Take out trash",
+        "completed": true,
+        "userId": 1
+      },
+      {
+        "id": 3,
+        "title": "Clean the house",
+        "completed": false,
+        "userId": 1
+      },
+      {
+        "id": 4,
+        "title": "Finish project report",
+        "completed": true,
+        "userId": 1
+      },
+      {
+        "id": 5,
+        "title": "Walk the dog",
+        "completed": false,
+        "userId": 1
+      },
+      {
+        "id": 6,
+        "title": "Read a book",
+        "completed": false,
+        "userId": 1
+      },
+      {
+        "id": 7,
+        "title": "Attend meeting at 2 PM",
+        "completed": true,
+        "userId": 1
+      },
+      {
+        "id": 8,
+        "title": "Buy new shoes",
+        "completed": false,
+        "userId": 1
+      },
+      {
+        "id": 9,
+        "title": "Call mom",
+        "completed": false,
+        "userId": 1
+      },
+      {
+        "id": 10,
+        "title": "Complete React tutorial",
+        "completed": true,
+        "userId": 1
+      },
+      {
+        "id": 11,
+        "title": "Take a break",
+        "completed": false,
+        "userId": 1
+      },
+      {
+        "id": 12,
+        "title": "Organize desk",
+        "completed": true,
+        "userId": 1
+      },
+      {
+        "id": 13,
+        "title": "Water the plants",
+        "completed": false,
+        "userId": 1
+      },
+      {
+        "id": 14,
+        "title": "Send email to client",
+        "completed": true,
+        "userId": 1
+      },
+      {
+        "id": 15,
+        "title": "Prepare dinner",
+        "completed": false,
+        "userId": 1
+      }
+    ]
+  }
+  
